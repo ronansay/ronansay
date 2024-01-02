@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ## Hej👋 ![Total Views](https://views.whatilearened.today/views/github/ronansay/ronansay.svg)
 I am a professional Test Automation Engineer & DevOps Practioner . I enjoy working on latest tech and love to work and solve problems in the field of Test Automation- Front End /Back End and work on Implementing New Ideas for Automation Framework.
 
-For more information about me , check out my [portfolio](https://mydigital-cv-ii8m.onrender.com/)  [portfolio](https://mydigitalresume.onrender.com/#bio)
+For more information about me , check out my [portfolio](https://mydigital-cv-ii8m.onrender.com/)
 
 - 🔭 I’m currently enjoying the field of Front End Web UI Automation, Microservices, REST API Automation and DevOps Implementation for clients.
 - 👯 I’m looking to collaborate on projects where I can use my skills to solve problems and implement latest Automation Framework solution and work on DevOps.
