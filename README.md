@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hej👋 ![Total Views](https://views.whatilearened.today/views/github/ronansay/ronansay.svg)
-I am a professional Test Automation Engineer & DevOps Practioner . I enjoy working on latest tech and love to work and solve problems in the field of Test Automation- Front End /Back End and work on Implementing New Ideas for Automation Framework.
+I am a professional Test Automation Engineer & DevOps Practioner . I enjoy working on latest tech and love to work and solve problems in the field of Test Automation- Front End-Back End and work on Implementing New Ideas for Automation Framework.
 
 For more information about me , check out my [portfolio](https://mydigital-cv-ii8m.onrender.com/)
 
