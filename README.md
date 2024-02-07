@@ -32,15 +32,15 @@ For more information about me , check out my [portfolio](https://mydigital-cv-ii
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Katalon" width="26px" src="https://www.schoolofit.co.za/wp-content/uploads/2020/05/Katalon-Studio-Training-Courses-806x393.jpg" />
-<img align="left" alt="RobotFrameWork" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" />
+<img align="left" alt="RobotFrameWork" width="26px" src="https://miro.medium.com/v2/resize:fit:993/1*rUS0JEoy87mAyFH3p6VoFA.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKDcWmECOin8PwY9aO075fbkInpN-SE5bNQEffI7oSYvNnQkIaKPKVq8a3NnGnbtyyW5Q&usqp=CAU" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0T9fVMjlcHbJjGLj-Sd69Ksk6rN7ngvxgYECKzDqtH3HdBRpvVjh8bL1M3bUZmGHuKsQ&usqp=CAU" />
 <img align="left" alt="DevOps" width="26px" src="https://contentstatic.techgig.com/photo/85273367/career-in-devops-skills-to-watch-out-for.jpg?104490" />
-<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+<img align="left" alt="Azure" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_azure_logo_icon_168977.png" />
+<img align="left" alt="AWS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1lfozzEm8ilg1RDD4VkZ7pOTTNwnWCAFDzKmoXpSqiQ&s" />
 
 <img align="left" alt="GCP" width="26px" src="https://w7.pngwing.com/pngs/999/984/png-transparent-google-cloud-platform-cloud-computing-microsoft-azure-platform-as-a-service-cloud-computing-text-logo-cloud-computing-thumbnail.png" />
 
