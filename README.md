@@ -36,7 +36,7 @@ For more information about me , check out my [portfolio](https://mydigitalresume
 <img align="left" alt="GraphQL" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKDcWmECOin8PwY9aO075fbkInpN-SE5bNQEffI7oSYvNnQkIaKPKVq8a3NnGnbtyyW5Q&usqp=CAU"/>
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 <img align="left" alt="GitHub" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0T9fVMjlcHbJjGLj-Sd69Ksk6rN7ngvxgYECKzDqtH3HdBRpvVjh8bL1M3bUZmGHuKsQ&usqp=CAU"/>
 <img align="left" alt="DevOps" width="26px" src="https://contentstatic.techgig.com/photo/85273367/career-in-devops-skills-to-watch-out-for.jpg?104490"/>
 <img align="left" alt="Azure" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_azure_logo_icon_168977.png"/>
