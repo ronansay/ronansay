@@ -50,4 +50,4 @@ For more information about me , check out my [portfolio](https://mydigitalresume
 <img align="left" alt="siebel" width="26px" src="https://yespartners.com/wp-content/uploads/2017/08/oracle-siebel-png.png"/>
 <img align="left" alt="python" width="26px" src="https://cms-assets.tutsplus.com/uploads/users/71/courses/647/preview_image/intro-python-1.png"/>
 <br />
-<br />
+
