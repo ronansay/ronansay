@@ -16,7 +16,7 @@ I am a professional Test Automation Engineer & DevOps Practioner . I enjoy worki
 
 For more information about me , check out my [portfolio](https://mydigitalresume2.onrender.com)
 
-- 🔭 I’m currently enjoying the field of Front End Web UI Automation, Microservices, REST API Automation and DevOps Implementation for clients.
+- 🔭 I’m currently working and enjoying the field of Front End Web UI Automation, Microservices, REST API Automation and DevOps Implementation for clients.
 - 👯 I’m looking to collaborate on projects where I can use my skills to solve problems and implement latest Automation Framework solution and work on DevOps.
 - 💬 Hit me up to discuss about Software Test Automation and DevOps Engineering.
 - 📫 How to reach me: visit my [linkedin](https://www.linkedin.com/in/rohan-deshmukh-154407b8/).
